@@ -28,30 +28,21 @@ I'm a second-year **Software Engineering** student at the **University of Greenw
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-plastic&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-plastic&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" alt="Top Languages" height="160"/>
-</p>
 
 ## 🏆 Projects
 
-### 🔧 Data Analysis & Automation
-- **Sales Analytics Dashboard** - Python/Pandas system for tracking sales and customer feedback
-- **Multi-platform Delivery Integration** - Automated data aggregation from Just Eat, Uber Eats, Deliveroo
-- **Inventory Management System** - Streamlined stock tracking and supplier order optimization
+### 🔧 Algorithm Optimization & Performance Analysis 
+### 🔧 Tree Management System
+### 🔧Functional Programming Data Processor 
+### 🔧Large-Scale Stadium Management System Design
+### 🔧Functional Programming Data Processor
 
-### 💡 Software Engineering
-- **Advanced Algorithms Implementation** - University coursework on complex data structures
-- **Web Applications** - Full-stack projects using React and Node.js
-- **AI/ML Experiments** - Introductory machine learning models and implementations
 
 ## 📚 Education
 
-**BSc (Hons) Software Engineering** \
+**(BEng) Software Engineering** \
 University of Greenwich · London, UK \
-*Expected Graduation: 2026*
+*Expected Graduation: 2028*
 
 **Relevant Coursework:** 
 - Advanced Algorithms & Data Structures
@@ -59,13 +50,15 @@ University of Greenwich · London, UK \
 - Information Security & Computer Systems
 - Software Engineering Principles
 - Computational Methods & Numerical Techniques
+- Paradigms Of Programing
+- Computer & Communication System
 
 ## 📫 Let's Connect!
 
 I'm always open to discussing software engineering opportunities, collaborative projects, or new technologies.
 
 - **LinkedIn**: [mahbubhridoy06](https://www.linkedin.com/in/mahbubhridoy06/)
-- **Email**: your-email@example.com
+- **Email**: mahbubhridoy08@gmail.com
 - **Location**: London, UK
 
 ---
